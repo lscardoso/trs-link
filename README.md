@@ -11,7 +11,11 @@ This script handles RS232 transnsfers to/from a TRS-80 Model 100 computer and a 
 
 ## Usage
 
-trs-link --help will list the options
+```
+python3 trs-link --help 
+```
+
+for a list of options
 
 On your TRS-80 M100, do all transfers with TELCOM, without any width (just type Enter when asked for a width)
 
